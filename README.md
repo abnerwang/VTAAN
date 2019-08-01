@@ -6,34 +6,34 @@ Python (PyTorch) implementation of VTAAN tracker. It is based on my another repo
 If you want this code for personal use, please cite:  
   
    @InProceedings{nam2016mdnet,
-	author = {Nam, Hyeonseob and Han, Bohyung},
-	title = {Learning Multi-Domain Convolutional Neural Networks for Visual Tracking},
-	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-	month = {June},
-	year = {2016}
-	}   
+       author = {Nam, Hyeonseob and Han, Bohyung},
+       title = {Learning Multi-Domain Convolutional Neural Networks for Visual Tracking},
+	     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+	     month = {June},
+	     year = {2016}
+	 }   
 
-  @inproceedings{shi-nips18-DAT,
-    author = {Pu, Shi and Song, Yibing and Ma, Chao and Zhang, Honggang and Yang, Ming-Hsuan},
-    title = {Deep Attentive Tracking via Reciprocative Learning},
-    booktitle = {Neural Information Processing Systems},
-    year = {2018},
-  }
+   @inproceedings{shi-nips18-DAT,
+       author = {Pu, Shi and Song, Yibing and Ma, Chao and Zhang, Honggang and Yang, Ming-Hsuan},
+       title = {Deep Attentive Tracking via Reciprocative Learning},
+       booktitle = {Neural Information Processing Systems},
+       year = {2018},
+   }
   
     @inproceedings{song-cvpr18-VITAL-PyTorch,
-    author = {Xiaoping Wang}, 
-    title = {VITAL: VIsual Tracking via Adversarial Learning}, 
-    booktitle = {VITAL tracker implemented by PyTorch}, 
-    month = {March},
-    year = {2019},
+        author = {Xiaoping Wang}, 
+        title = {VITAL: VIsual Tracking via Adversarial Learning}, 
+        booktitle = {VITAL tracker implemented by PyTorch}, 
+        month = {March},
+        year = {2019},
     }  
 
     @inproceedings{xiaopingwang-VTAAN,
-    author = {Xiaoping Wang}, 
-    title = {VTAAN: Visual Tracking with Attentive Adversarial Network}, 
-    booktitle = {VTAAN tracker implemented by PyTorch}, 
-    month = {August},
-    year = {2019},
+        author = {Xiaoping Wang}, 
+        title = {VTAAN: Visual Tracking with Attentive Adversarial Network}, 
+        booktitle = {VTAAN tracker implemented by PyTorch}, 
+        month = {August},
+        year = {2019},
     }  
     
   
