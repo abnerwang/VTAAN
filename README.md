@@ -11,15 +11,15 @@ If you want this code for personal use, please cite:
 	     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 	     month = {June},
 	     year = {2016}
-	 }   
+	 }  
 
    @inproceedings{shi-nips18-DAT,
        author = {Pu, Shi and Song, Yibing and Ma, Chao and Zhang, Honggang and Yang, Ming-Hsuan},
        title = {Deep Attentive Tracking via Reciprocative Learning},
        booktitle = {Neural Information Processing Systems},
        year = {2018},
-   }
-  
+   }  
+
     @inproceedings{song-cvpr18-VITAL-PyTorch,
         author = {Xiaoping Wang}, 
         title = {VITAL: VIsual Tracking via Adversarial Learning}, 
