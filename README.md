@@ -3,7 +3,7 @@ by [Xiaoping Wang](http://blog.keeplearning.group/about/).
 ## Introduction
 Python (PyTorch) implementation of VTAAN tracker「Wang, F., Wang, X., Tang, J. *et al.* VTAAN: Visual Tracking with Attentive Adversarial Network. *Cogn Comput* (2020). https://doi.org/10.1007/s12559-020-09727-3」.
 
-It is based on my another repository called [py-Vital, ](https://github.com/abnerwang/py-Vital) which is posted on the [project home](https://github.com/ybsong00/Vital_release) by the authors of VITAL tracker.  
+This implementation is based on my another repository called [py-Vital, ](https://github.com/abnerwang/py-Vital) which is posted on the [project home](https://github.com/ybsong00/Vital_release) by the authors of VITAL tracker.  
 
 If you want this code for personal use, please cite:  
 
