@@ -2,7 +2,7 @@
 by [Xiaoping Wang](http://blog.keeplearning.group/about/).  
 ## Introduction
 
-This implementation is based on my another repository called [py-Vital, ](https://github.com/abnerwang/py-Vital) which is posted on the [project home](https://github.com/ybsong00/Vital_release) by the authors of VITAL tracker.  
+This implementation is based on my another repository called [py-Vital, ](https://github.com/abnerwang/py-Vital) that is posted on the [project home](https://github.com/ybsong00/Vital_release) by the authors of VITAL tracker.  
 
 If you want this code for personal use, please cite:  
 
